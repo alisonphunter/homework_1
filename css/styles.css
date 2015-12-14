@@ -1,0 +1,46 @@
+h1 {
+  background: #333;
+  border: 2px solid #000;
+  color: #fff;
+  text-align: center;
+  padding-top: 12px;
+  margin-top: 40px;
+  padding-bottm: 12px;
+  margin-bottom: 40px;
+}
+
+h2 {
+color: #fff;
+background: #333;
+text-align: center;
+  border: 2px solid #000;
+  padding: 20px 0 20px 0;
+  margin: 60px 0 60px 0;}
+
+  h3{
+  text-align:left;
+  text-decoration:underline;
+}
+
+  h4{
+    text-align: left;
+}
+
+.testing {
+  background: #333;
+  border: 2px solid #000;
+  color: #fff;
+font-style: italic;
+font-size: 16pxß
+float: right;
+width: 50%;
+clear: both;
+
+          }
+
+}
+.emphasis {
+font-weight: bold;
+          }
+
+          
